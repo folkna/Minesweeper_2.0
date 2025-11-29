@@ -1,4 +1,4 @@
-##Project Minesweeper 2.0 – Panupong Saisopon
+## Project Minesweeper 2.0 – Panupong Saisopon
 ---
 
 โปรเจคนี้เป็นโปรเจคที่ผมพัฒนาขึ้นเพื่อฝึกฝนทักษะการใช้ Vue.js และ Pinia
