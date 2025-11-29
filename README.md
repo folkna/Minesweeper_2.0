@@ -1,4 +1,5 @@
-Project Minesweeper 2.0 – Folkna Edition
+##Project Minesweeper 2.0 – Panupong Saisopon
+---
 
 โปรเจคนี้เป็นโปรเจคที่ผมพัฒนาขึ้นเพื่อฝึกฝนทักษะการใช้ Vue.js และ Pinia
 โดยใช้เวลาในการทำทั้งหมด 3 วัน ซึ่งครอบคลุมทั้งการศึกษา Vue.js, การทำเสียง, การสร้างระบบเกม และการวาด Pixel Art
@@ -8,5 +9,8 @@ Project Minesweeper 2.0 – Folkna Edition
 นี่เป็นหนึ่งในโปรเจคที่ผมสนุกมากที่สุด และผมหวังว่าจะได้กลับมาเพิ่มเติมส่วนต่างๆ ที่อยากทำ เช่น โหมดเกมใหม่, Leaderboard, Multiplayer เป็นต้น
 
 ขอบคุณทุกท่านที่เข้ามารับชมและทดลองเล่นครับ
+
+
+![Smile Face](minesweeper/img/Idle_Smile_Face.gif)
 
 23/11/2568
